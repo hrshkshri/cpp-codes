@@ -6,7 +6,7 @@ Please note we have a code of conduct, please follow it in all your interactions
 
 ## Pull Request Process
 
-- Fork (making a copy of the repository on your github account) the repository `innogeeksOrganization/coderspree`.
+- Fork (making a copy of the repository on your github account) the repository `hrshkshri/cpp-codes`.
 - Go to the forked repo on your github account.
 - Click on `fetch upstream`.
 - Clone the forked repo using `GitHub Desktop`.
